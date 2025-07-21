@@ -43,9 +43,9 @@ También lidero proyectos tecnológicos desde la Patagonia para Chile y el mundo
 
 📌 *Puedes integrar esto con un script o manualmente si publicas poco*
 
-- [Conceptos Básicos de Seguridad]([https://miguelmansilla.cl/conceptos-basicos-de-seguridad-en-la-web/](https://miguelmansilla.cl/conceptos-basicos-de-seguridad-en-la-web/)](https://miguelmansilla.cl/conceptos-basicos-de-seguridad-en-la-web/))
-- [Ser emprendedor y papá equilibrando dos mundos]((https://miguelmansilla.cl/ser-emprendedor-y-papa-equilibrando-dos-mundos/))
-- [Coordinar trabajo en equipo con una Startup]((https://miguelmansilla.cl/coordinar-trabajo-en-equipo-en-una-startup-retos-y-mejores-practicas/))
+- [Conceptos Básicos de Seguridad](https://miguelmansilla.cl/conceptos-basicos-de-seguridad-en-la-web/)
+- [Ser emprendedor y papá equilibrando dos mundos](https://miguelmansilla.cl/ser-emprendedor-y-papa-equilibrando-dos-mundos/)
+- [Coordinar trabajo en equipo con una Startup](https://miguelmansilla.cl/coordinar-trabajo-en-equipo-en-una-startup-retos-y-mejores-practicas/)
 
 ---
 
