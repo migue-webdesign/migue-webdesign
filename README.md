@@ -15,10 +15,8 @@ Soy un desarrollador y emprendedor tecnológico con experiencia en:
 - 🔧 Desarrollo Web & Web Apps (React, Django, WordPress)
 - 🤖 Aplicaciones con Inteligencia Artificial
 - 🌐 Integraciones IoT para proyectos de innovación
-- 🧭 Turismo digital y mapas interactivos (con Patago.cl)
-- 📊 Plataformas SaaS para la industria acuícola (AquaFeed AI)
-
-También lidero proyectos tecnológicos desde la Patagonia para Chile y el mundo 🌎.
+- 🧭 Turismo digital y contenido
+- 📊 Plataformas SaaS para la industria acuícola 
 
 ---
 
