@@ -12,7 +12,7 @@
 
 Soy un desarrollador y emprendedor tecnológico con experiencia en:
 
-- 🔧 Desarrollo Web & Web Apps (React, Django, WordPress)
+- 🔧 Desarrollo Web & Web Apps (React, Django, Python)
 - 🤖 Aplicaciones con Inteligencia Artificial
 - 🌐 Integraciones IoT para proyectos de innovación
 - 🧭 Turismo digital y contenido
@@ -55,5 +55,5 @@ Soy un desarrollador y emprendedor tecnológico con experiencia en:
 
 <p align="center">
   Gracias por pasar por aquí 🙌 <br/>
-  <strong>Siempre abierto a colaborar en proyectos que mejoren vidas a través de la tecnología.</strong>
+  <strong>Siempre dispuesto a colaborar en proyectos que mejoren vidas a través de la tecnología.</strong>
 </p>
