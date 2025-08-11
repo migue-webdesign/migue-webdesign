@@ -31,15 +31,13 @@ Soy un desarrollador y emprendedor tecnológico con experiencia en:
 
 ### 🚀 Proyectos destacados
 
-- [🌊 Aquafeed AI](https://github.com/usuario/aquafeed-ai) – Plataforma para monitoreo inteligente de alimentación en centros de cultivo
+- [🌊 Aquafeed AI](https://github.com/migue-webdesign/aquafeed-ai) – Plataforma para monitoreo inteligente de alimentación en centros de cultivo
 - [🧭 Patago.cl](https://patago.cl) – Directorio y hub de turismo en la Patagonia chilena
-- [🧠 Neurix SpA](https://neurix.cl) – Soluciones IA & IoT para la gran industria
+- [🧠 Neurix SpA](https://neurixcompany.com) – Soluciones IA & IoT para la gran industria
 
 ---
 
 ### ✍️ Últimos artículos del blog
-
-📌 *Puedes integrar esto con un script o manualmente si publicas poco*
 
 - [Conceptos Básicos de Seguridad](https://miguelmansilla.cl/conceptos-basicos-de-seguridad-en-la-web/)
 - [Ser emprendedor y papá equilibrando dos mundos](https://miguelmansilla.cl/ser-emprendedor-y-papa-equilibrando-dos-mundos/)
