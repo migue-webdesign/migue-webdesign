@@ -3,7 +3,7 @@
 <p align="center">
   🌄 Vivo en la Patagonia Chilena &nbsp;|&nbsp;
   👨‍💻 Desarrollador Web & Emprendedor &nbsp;|&nbsp;
-  🚀 CEO de <strong>Neurix y Creativos Chile</strong>
+  🚀 CEO de <strong>Neurix Company y Creativos Chile</strong>
 </p>
 
 ---
@@ -32,8 +32,9 @@ Soy un desarrollador y emprendedor tecnológico con experiencia en:
 ### 🚀 Proyectos destacados
 
 - [🌊 Aquafeed AI](https://github.com/migue-webdesign/aquafeed-ai) – Plataforma para monitoreo inteligente de alimentación en centros de cultivo
-- [🧭 Patago.cl](https://patago.cl) – Directorio y hub de turismo en la Patagonia chilena
-- [🧠 Neurix SpA](https://neurixcompany.com) – Soluciones IA & IoT para la gran industria
+- [🧭 PataGo.cl](https://patago.cl) – Directorio y hub de turismo en la Patagonia chilena
+- [🧠 Neurix ](https://neurixcompany.com) – Soluciones IA & IoT para la gran industria
+- [🌊 DiverChile ](https://diverchile.cl) – Solución para control normativo ambiental
 
 ---
 
