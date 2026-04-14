@@ -31,9 +31,10 @@ Soy un desarrollador y emprendedor tecnológico con experiencia en:
 
 ### 🚀 Proyectos destacados
 
+- [🌊 APR MANAGER](https://aprmanager.com) – SaaS para servicios de Agua Potable Rural
 - [🌊 Aquafeed AI](https://github.com/migue-webdesign/aquafeed-ai) – Plataforma para monitoreo inteligente de alimentación en centros de cultivo
 - [🧭 PataGo.cl](https://patago.cl) – Directorio y hub de turismo en la Patagonia chilena
-- [🧠 Neurix ](https://neurixcompany.com) – Soluciones IA & IoT para la gran industria
+- [🧠 Neurix ](https://neurix.cl) – Soluciones IA & IoT para la gran industria
 - [🌊 DiverChile ](https://diverchile.cl) – Solución para control normativo ambiental
 
 ---
