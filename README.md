@@ -3,7 +3,7 @@
 <p align="center">
   🌄 Vivo en la Patagonia Chilena &nbsp;|&nbsp;
   👨‍💻 Desarrollador Web & Emprendedor &nbsp;|&nbsp;
-  🚀 CEO de <strong>Neurix Company y Creativos Chile</strong>
+  🚀 CEO de <strong>Neurix y Creativos Chile</strong>
 </p>
 
 ---
@@ -31,11 +31,12 @@ Soy un desarrollador y emprendedor tecnológico con experiencia en:
 
 ### 🚀 Proyectos destacados
 
-- [🌊 APR MANAGER](https://aprmanager.com) – SaaS para servicios de Agua Potable Rural
-- [🌊 Aquafeed AI](https://github.com/migue-webdesign/aquafeed-ai) – Plataforma para monitoreo inteligente de alimentación en centros de cultivo
-- [🧭 PataGo.cl](https://patago.cl) – Directorio y hub de turismo en la Patagonia chilena
-- [🧠 Neurix ](https://neurix.cl) – Soluciones IA & IoT para la gran industria
-- [🌊 DiverChile ](https://diverchile.cl) – Solución para control normativo ambiental
+- [💧 APR Manager](https://aprmanager.com) — SaaS para la gestión de Servicios Sanitarios Rurales
+- [🐟 Aquafeed AI](https://aquafeed.neurix.cl) — IA aplicada a la alimentación y monitoreo de centros de cultivo
+- [🏔️ PataGo.cl](#) — Plataforma digital de turismo y experiencias en la Patagonia chilena
+- [🧠 NeuriX](https://neurix.cl) — AI & IoT solutions for industry
+- [🤖 Syvor](https://syvor.io) — AI-powered personal productivity assistant
+- [🌱 DiverChile](https://diverchile.cl) — Plataforma de gestión del cumplimiento normativo ambiental
 
 ---
 
@@ -49,7 +50,7 @@ Soy un desarrollador y emprendedor tecnológico con experiencia en:
 
 ### 🧰 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=react,django,python,js,html,css,wordpress,github,apple,arduino,discord,linux,raspberrypi,tailwind,ubuntu" />
+<img src="https://skillicons.dev/icons?i=react,django,python,js,html,css,wordpress,github,apple,android,arduino,discord,linux,raspberrypi,tailwind,ubuntu" />
 
 ---
 
