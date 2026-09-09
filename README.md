@@ -50,7 +50,7 @@ Soy un desarrollador y emprendedor tecnológico con experiencia en:
 
 ### 🧰 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=react,django,python,js,html,css,wordpress,github,apple,android,arduino,discord,linux,raspberrypi,tailwind,ubuntu" />
+<img src="https://skillicons.dev/icons?i=react,django,python,js,html,css,wordpress,github,apple,arduino,discord,linux,raspberrypi,tailwind,ubuntu" />
 
 ---
 
