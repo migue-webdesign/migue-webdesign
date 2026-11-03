@@ -31,11 +31,11 @@ Soy un desarrollador y emprendedor tecnológico con experiencia en:
 
 ### 🚀 Proyectos destacados
 
+- [🤖 Syvor](https://syvor.io) — AI-powered personal productivity assistant
 - [💧 APR Manager](https://aprmanager.com) — SaaS para la gestión de Servicios Sanitarios Rurales
+- - [🧠 NeuriX](https://neurix.cl) — AI & IoT solutions for industry
 - [🐟 Aquafeed AI](https://aquafeed.neurix.cl) — IA aplicada a la alimentación y monitoreo de centros de cultivo
 - [🏔️ PataGo.cl](#) — Plataforma digital de turismo y experiencias en la Patagonia chilena
-- [🧠 NeuriX](https://neurix.cl) — AI & IoT solutions for industry
-- [🤖 Syvor](https://syvor.io) — AI-powered personal productivity assistant
 - [🌱 DiverChile](https://diverchile.cl) — Plataforma de gestión del cumplimiento normativo ambiental
 
 ---
